@@ -6,7 +6,7 @@
 print('Parth Mangukiya')
 
 name=input("What is your name?: ")
-print("Hello",name)
+print("Hello", name)
 
 
 First = int(input("Enter the first number: "))
