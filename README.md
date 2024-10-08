@@ -28,8 +28,8 @@ parth-mangukiya-b84710209)](https://linkedin.com/in/parth mangukiya)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-print("FlowChrat")
+"FlowChrat"
 ![systematicreviewdiagram drawio](https://github.com/user-attachments/assets/78d24722-48e4-4202-beb4-d0d2e69d56e6)
 
-print("mind map")
+"mind map"
 ![Meta-Analysis Mind Map](https://github.com/user-attachments/assets/020d66a7-db8d-4766-af02-4f3c51071fb4)
