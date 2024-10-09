@@ -1,10 +1,11 @@
 # Holla there (●'◡'●)
-Welcome to my GitHub! I'm Parth Mangukiya, and I am currently studying Industrial Information Technology. I am strongly interested in how technology can drive efficiency and innovation in industries. I enjoy working on projects that combine data, automation, and smart systems. Feel free to explore my repositories and join me on this exciting journey into the world of industrial tech!
+Welcome to my GitHub! I'm Parth Mangukiya, and I am currently studying Industrial Information Technology. I am strongly interested in how technology can drive industry efficiency and innovation. I enjoy working on projects that combine data, automation, and smart systems. Feel free to explore my repositories and join me on this exciting journey into the world of industrial tech!
 
 
 # 💫 About Me:
 Coding enthusiast crafting digital solutions one commit at a time.<br>Lost in the world of code, occasionally found contributing to open source.<br>Exploring the intersection of technology and creativity.<br>Turning lines of code into stories of innovation.<br>Debugging life, one code snippet at a time.<br><be>
-![Uploading CodingTypingGIF.gif…]()
+![CodingTypingGIF (2)](https://github.com/user-attachments/assets/4b8b5c69-4f58-4cff-bbdc-fcd26636f580)
+
 
 
 <br><br><br><br><br><br>
