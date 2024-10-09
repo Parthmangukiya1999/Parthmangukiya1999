@@ -3,7 +3,7 @@ Welcome to my GitHub! I'm Parth Mangukiya, and I am currently studying Industria
 
 
 # 💫 About Me:
-Coding enthusiast crafting digital solutions one commit at a time.<br>Lost in the world of code, occasionally found contributing to open source.<br>Exploring the intersection of technology and creativity.<br>Turning lines of code into stories of innovation.<br>Debugging life, one code snippet at a time.<br><br><br><br><br><br><br><br>
+Coding enthusiast crafting digital solutions one commit at a time.<br>Lost in the world of code, occasionally found contributing to open source.<br>Exploring the intersection of technology and creativity.<br>Turning lines of code into stories of innovation.<br>Debugging life, one code snippet at a time.<br><br><br><br><br>
 ![CodingTypingGIF (2)](https://github.com/user-attachments/assets/4b8b5c69-4f58-4cff-bbdc-fcd26636f580)
 
 
