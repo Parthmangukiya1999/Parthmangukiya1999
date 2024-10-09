@@ -3,14 +3,10 @@ Welcome to my GitHub! I'm Parth Mangukiya, and I am currently studying Industria
 
 
 # 💫 About Me:
-Coding enthusiast crafting digital solutions one commit at a time.<br>Lost in the world of code, occasionally found contributing to open source.<br>Exploring the intersection of technology and creativity.<br>Turning lines of code into stories of innovation.<br>Debugging life, one code snippet at a time.<br><br><br><br><br>
+Coding enthusiast crafting digital solutions one commit at a time.<br>Lost in the world of code, occasionally found contributing to open source.<br>Exploring the intersection of technology and creativity.<br>Turning lines of code into stories of innovation.<br>Debugging life, one code snippet at a time.<br><br><br><br>
 ![CodingTypingGIF (2)](https://github.com/user-attachments/assets/4b8b5c69-4f58-4cff-bbdc-fcd26636f580)
 
-
-
-
-
-
+<be><br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/parth mangukiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.mangukiya1) [![LinkedIn](www.linkedin.com/in/parth-mangukiya-b84710209)](https://linkedin.com/in/parth mangukiya) 
 
