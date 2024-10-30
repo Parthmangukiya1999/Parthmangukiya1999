@@ -1,4 +1,4 @@
-# Holla there (●'◡'●)
+# Hei there (●'◡'●)
 Welcome to my GitHub! I'm Parth Mangukiya, and I am currently studying Industrial Information Technology. I am strongly interested in how technology can drive industry efficiency and innovation. I enjoy working on projects that combine data, automation, and smart systems. Feel free to explore my repositories and join me on this exciting journey into the world of industrial tech!
 
 
