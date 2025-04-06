@@ -32,8 +32,3 @@ Coding enthusiast crafting digital solutions one commit at a time.<br>Lost in th
 "FlowChrat"
 
 ![Flowchart - Momentapp](https://github.com/user-attachments/assets/7992d90b-4346-46bb-97f5-909c2510eeef)
-
-
-
-"mind map"
-![Meta-Analysis Mind Map](https://github.com/user-attachments/assets/020d66a7-db8d-4766-af02-4f3c51071fb4)
