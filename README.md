@@ -37,8 +37,6 @@ My learning path follows a structured progression:
    - Clear reporting using charts, dashboards, and summaries
    - Focus on communication of insights
 
-7. **AI Projects**
-   - End-to-end projects combining data collection, analysis, and modeling
 
 ---
 
