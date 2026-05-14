@@ -42,6 +42,24 @@ My learning path follows a structured progression:
 
 ## Selected Academic & Technical Projects
 
+### Machine Learning & Data Science Projects
+### Population Analysis & Machine Learning Project (Finland Population Dataset + Helsinki Trend Analysis)
+
+A machine learning and data analytics project focused on analyzing long-term population trends, demographic changes, and regional growth patterns using real-world Finnish population datasets, with a specific focus on Helsinki district-level analysis.
+
+**Focus areas**
+- Data preprocessing and cleaning  
+- Exploratory Data Analysis (EDA)  
+- Feature engineering and trend analysis  
+- Statistical analysis of population movement, birth, and death trends  
+- Regional demographic comparison across Helsinki districts  
+- Regression and classification model experimentation  
+- Pattern recognition and insight generation for urban development  
+- Visualization of demographic insights and reporting  
+
+**Technologies:**  
+Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, Excel, Power BI, Jupyter Notebook
+
 ### IoT Weather Station – Raspberry Pi Pico / Pico W
 An academic IoT project that collects temperature and humidity data using sensors, displays real-time values on an OLED screen, and sends data to a backend or cloud service using HTTP and JSON.
 
