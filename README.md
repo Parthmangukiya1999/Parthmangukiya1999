@@ -58,7 +58,7 @@ A machine learning and data analytics project focused on analyzing long-term pop
 - Visualization of demographic insights and reporting  
 
 **Technologies:**  
-Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, Excel, Power BI, Jupyter Notebook
+Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL, Excel, Jupyter Notebook, SuperComputer
 
 ### IoT Weather Station – Raspberry Pi Pico / Pico W
 An academic IoT project that collects temperature and humidity data using sensors, displays real-time values on an OLED screen, and sends data to a backend or cloud service using HTTP and JSON.
@@ -68,7 +68,7 @@ An academic IoT project that collects temperature and humidity data using sensor
 - Data collection pipeline (sensor → device → server)  
 - Practical IoT system design  
 
-Technologies:  
+**Technologies:**  
 Raspberry Pi Pico / Pico W, C/C++, DHT sensors, OLED (SH1107), Wi-Fi, REST APIs
 
 ---
@@ -81,8 +81,8 @@ A large-scale data analysis project exploring EV charging behavior, efficiency p
 - Exploratory data analysis  
 - Visualization and reporting for decision-making  
 
-Technologies:  
-Python, SQL, Excel, Power BI
+**Technologies:**  
+Python, SQL, Excel, Power BI, Jupyter Notebook
 
 ---
 
@@ -94,15 +94,15 @@ A full-stack academic project focused on backend development, authentication, an
 - Database modeling  
 - Secure user management  
 
-Technologies:  
-Node.js, Express, MongoDB / Cosmos DB
+**Technologies:**  
+Node.js, Express, MongoDB / Cosmos DB, Azure, DevOps
 
 ---
 
 ## Technical Skills
 
 **Programming**
-- Python, C/C++, JavaScript
+- Python, C/C++, JavaScript, SQL
 
 **Data & AI**
 - Data analysis and preprocessing
@@ -121,7 +121,7 @@ Node.js, Express, MongoDB / Cosmos DB
 
 **Tools**
 - Git & GitHub
-- Excel (advanced), Power BI
+- Excel (advanced), Power BI, Jupyter Notebook, VS Code
 - PlatformIO / Arduino framework
 
 ---
@@ -140,7 +140,6 @@ Industrial Information Technology
 ---
 
 ## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthmangukiya1999&theme=dark&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parthmangukiya1999&theme=dark&hide_border=false)
 
 ---
